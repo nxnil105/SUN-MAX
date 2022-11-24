@@ -8,6 +8,7 @@ if bitt=="32bit":
     print('[!] Your Device is 32 bit');time.sleep(1);print('\n\n[!] Your Python Version :');time.sleep(1);os.system('python --version')
     time.sleep(2)
     exit("TOol Not Support On Your Device")
+    import random
  
  
 elif bitt=="64bit":
